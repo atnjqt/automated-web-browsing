@@ -31,9 +31,8 @@ In your jupyter terminal, install the selenium module:
 - *Please note: this repo does not describe virtual environment setup for installing selenium, though this is something to consider... More information [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)*
 
 ``` bash
-pip install selenium
+pip install selenium --user
 ``` 
-
 _________
 
 ## Downloading the WebDriver
